@@ -1,0 +1,51 @@
+Para este laboratorio utilizamos la base de datos de Microsoft NorthWind
+
+Tema: Consultas de selección
+
+I. Objetivos
+1. Mostrar datos almacenados en una base de datos
+2. Ejecutar sentencias básicas SELECT
+3. Implementar diferentes clausulas con la sentencia SELECT para seleccionar datos tomando ciertas
+   decisiones
+
+1. Seleccionar todos los campos de la tabla Products 
+R:
+
+2. Seleccionar los campos ProductID ProductName y UnitPrice 
+R:
+
+3. Seleccionar los datos de la tabla Products donde el dato almacenado en el campo UnitPrice sea mayor a 20
+R:
+
+4. Seleccionar los datos de la tabla Products donde el dato almacenado en el campo UnitPrice sea mayor o igual a 20 y menor o igual a 90
+R:
+
+5. Seleccionar los registros de la tabla Products donde el dato almacenado en el campo ProductID sea mayor a 50 y el dato almacenado en el campo UnitPrice sea menor a 10
+R:
+
+6. Seleccionar los campos EmployeeID y LastName de la tabla Employees donde el dato almacenado en el campo LastName comience con los caracteres DA 
+R:
+
+7. Seleccionar los campos EmployeeID y LastName de la tabla Employees donde el dato almacenado en el campo LastName termine con la letra H
+R:
+
+8. Seleccionar los campos EmployeeID, LastName y Title de la tabla Employees donde el dato almacenado en el campo Title se encuentre la palabra MANAGER, no importando en que posicion  
+R:
+
+9. Seleccionar los campos OrderID, ProductID y UnitPrice de la tabla Order Details donde el OrderID sea igual a 10251
+R:
+
+
+10. Seleccionar el campo CompanyName de la tabla Customers donde este sea igual a Alfreds
+Futterkiste
+R:
+
+
+
+
+
+
+
+
+
+
