@@ -206,5 +206,11 @@ Recordar cerrar la conexión a la base de datos al finalizar tus operaciones.
 $conn->close();
 ?>
 ```
+### Ubicar Archivos PHP en el Directorio Correcto - Linux
+Por defecto, Apache sirve archivos desde el directorio /var/www/html. Coloca tus archivos PHP en este directorio.
+Por ejemplo, si tienes un archivo PHP llamado index.php, cópialo a `/var/www/html`.
+### Ubicar Archivos PHP en el Directorio Correcto - Windows Xampp
+Coloca todos tus archivos PHP y cualquier otro recurso necesario (como archivos CSS, JavaScript, imágenes, etc.) en el directorio `C:\xampp\htdocs`.
+
 
 
